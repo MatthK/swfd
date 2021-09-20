@@ -15,6 +15,7 @@ services:
     expose:
       - '3306'
     volumes:
+      - ./sf-dc:/etc
       - ./sf-db:/var/lib/mysql
 
   web:
