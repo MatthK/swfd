@@ -27,5 +27,8 @@ services:
       - '8080:8080'
     restart: always
     volumes:
-      - ./swfd/bs:/var/www/html/data
+      - bs:/var/www/html/data
       - ./swfd/wf:/var/www/Selfoss-Webfront-master/includes
+      
+volumes:
+   bs:      
