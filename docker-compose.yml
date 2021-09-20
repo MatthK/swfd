@@ -1,0 +1,31 @@
+version: "3.7"
+
+services:
+  db:
+    container_name: MySql
+    image: mysql/mysql-server:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'selfoss'
+      MYSQL_USER: 'selfoss'
+      MYSQL_PASSWORD: 'Gw#W5GXts5Xzs94ZNPko'
+      MYSQL_ROOT_PASSWORD: 'Gw#W5GXts5Xzs94ZNPko'
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - ./sf-db:/var/lib/mysql
+
+  web:
+    container_name: Selfoss
+    depends_on: [db]
+    image: matthk72/selfoss-wf:latest
+    ports:
+      - '80:80'
+      - '8080:8080'
+    restart: always
+    volumes:
+      - ./sf-wf:/var/www/Selfoss-Webfront-master/includes
+      - ./sf-bs:/var/www/html/data
+
