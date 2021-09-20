@@ -5,6 +5,7 @@ This is a docker compose for Selfoss(https://github.com/fossar/selfoss) and my S
 - A robust RSS solution to get content into a database
 - A responsive newsite styled webfront to read your news
 - Conveniently packaged into a single docker compose 
+- It should now also work on both arm64 and amd64 platforms
 
 ## Installation
 
