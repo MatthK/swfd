@@ -8,14 +8,14 @@ services:
     environment:
       MYSQL_DATABASE: 'selfoss'
       MYSQL_USER: 'selfoss'
-      MYSQL_PASSWORD: 'Gw#W5GXts5Xzs94ZNPko'
-      MYSQL_ROOT_PASSWORD: 'Gw#W5GXts5Xzs94ZNPko'
+      MYSQL_PASSWORD: 'GwW5GXts5Xzs94ZNPko'
+      MYSQL_ROOT_PASSWORD: 'GwW5GXts5Xzs94ZNPko'
     ports:
       - '3306:3306'
     expose:
       - '3306'
     volumes:
-      - ./sf-dc:/etc
+      #- ./sf-dc:/etc
       - ./sf-db:/var/lib/mysql
 
   web:

@@ -3,7 +3,7 @@
 $dbserver = "db";   // The IP address or domain name of the database server
 $database = "selfoss";              // The name of the database
 $username = "selfoss";              // The username for the database
-$dbpwd    = "Gw#W5GXts5Xzs94ZNPko"; // The password for the database user
+$dbpwd    = "GwW5GXts5Xzs94ZNPko";  // The password for the database user
 
 $npName = "Your Morning Post";      // The name of your Newspaper
 $font   = "blog-header-logo";       // Use either "blog-header-logo" or "blog-header-logo-old" for a more old-fashioned font for the title
