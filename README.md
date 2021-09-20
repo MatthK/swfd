@@ -13,13 +13,13 @@ This is a docker compose for Selfoss(https://github.com/fossar/selfoss) and my S
 3.  Type `docker-compose up -d` to fire up the containers 
 3.  Wait till the database has initialized. Then stop the containers again with `docker-compose down`
 3.  Update the database/username/password in the `nano swfd/bs/config.ini` and copy paste the whole content into the file on the docker volume.
-    `sudo nano /var/lib/docker/volumes/swfd_ba/_data/config.ini`
+    `sudo nano /var/lib/docker/volumes/swfd_bs/_data/config.ini`
 5.  Start the containers again with `docker-compose up -d`
 6.  Go to http://ip-address:8080/ to get to the Selfoss interface and create your RSS feeds. 
     The tags defined have to match the categories in the next point. You must have 11 different tags. Multiple feeds can be defined for one tag. Either manually refresh the sources, or wait 15 minutes till the next cron job picks it up.
 7.  Update the database/username/password in the constants.php and based on the feeds and tags you have defined, adjust the 11 categories
     `nano swfd/wf/constants.php`
-8.  Go once to http://ip-address/cfn.php to create a required function in the database
+8.  Go once to http://ip-address/cfn.php to create a required function in the database. After that, you can access your personal newspaper at http://ip-address/
 9.  Optional, put a Reverse proxy in front # to give it a nice domain name
 10. Enjoy
 
