@@ -16,7 +16,7 @@ services:
       - '3306'
     volumes:
       - ./swfd/dc:/etc/mysql
-      - /swfd/db:/var/lib/mysql
+      - ./swfd-db:/var/lib/mysql
 
   web:
     container_name: Selfoss
@@ -27,11 +27,5 @@ services:
       - '8080:8080'
     restart: always
     volumes:
-      - /swfd/bs:/var/www/html/data
-      - /swfd/wf:/var/www/Selfoss-Webfront-master/includes
-      
-volumes:
-  swfd/db:
-  swfd/bs:
-  swfd/wf:
-      
+      - ./swfd-bs:/var/www/html/data
+      - ./swfd-wf:/var/www/Selfoss-Webfront-master/includes
