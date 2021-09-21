@@ -31,8 +31,6 @@ Below are some of the feeds I am using. Be aware that some work a bit better tha
 
 Many feeds have also other categories available, simply look at the URLs and see how you could possibly modify them to find an overview page, or just with trial and error.
 
-
-
 ### English Feeds
 
 | Feed	| Category 	| Comment |
@@ -73,7 +71,6 @@ Many feeds have also other categories available, simply look at the URLs and see
 | [VoxEU](https://voxeu.org/feed/recent/rss.xml)	| Business | |
 | [Wired News](http://www.wired.com/news_drop/netcenter/netcenter.rdf)	| Technology | |
 | [Yahoo News](http://rss.news.yahoo.com/rss/world)	| World | |
-|   	|   	|   	|   	|
 
 ### German Feeds
 
