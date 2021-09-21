@@ -25,6 +25,9 @@ This is a docker compose for [Selfoss](https://github.com/fossar/selfoss) and my
 9.  Optional, put a Reverse proxy in front # to give it a nice domain name
 10. Enjoy
 
+## Dockerfile
+In case you need the image for a different platform, you can build it yourself using the [Dockerfile](https://github.com/MatthK/Selfoss-WF-Docker).
+
 ## Sample feeds
 
 Below are some of the feeds I am using. Be aware that some work a bit better than others, and the more active ones (BBC, Yahoo, CNBC) tend to drown the ones with more quality stuff but that update less often. Some content gets nicely fully downloaded, some feeds don't work so well and only teasers get retrieved or the formatting is a bit off.
