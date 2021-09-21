@@ -35,14 +35,14 @@ Many feeds have also other categories available, simply look at the URLs and see
 
 ###English Feeds
 
-| Feed	| Category 	| Link 	| Comment |
-|---	|---	|---	|---	|
-| Airway	| Aviation	| https://www.airway1.com/feed/	|   |
-Airways Magazine	Aviation		https://airwaysmag.com/rss
-AsiaTimes			World			https://asiatimes.com/category/world/feed/
-AsiaTimes			China			https://asiatimes.com/category/china/feed/  (there are many categories, just adapt according to your interest)
-AutoSport			Sport			https://www.autosport.com/rss/feed/f1 (Formula 1)
-BBC News			World			http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml  (see https://www.bbc.co.uk/news/10628494#userss for different feeds)
+| Feed	| Category 	| Comment |
+|---	|---	|---	|
+| [Airway](https://www.airway1.com/feed/)	| Aviation	|  |
+| [Airways Magazine](https://airwaysmag.com/rss)	| Aviation	|	|
+| [AsiaTimes](https://asiatimes.com/category/world/feed/)	| World	|	|
+| [AsiaTimes](https://asiatimes.com/category/china/feed/)	| China	| (there are many categories, just adapt according to your interest) |
+| [AutoSport](https://www.autosport.com/rss/feed/f1)	| Sport |	|
+| [BBC News](http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml)	| World	| (see https://www.bbc.co.uk/news/10628494#userss for different feeds) |
 BGR					Technology		https://bgr.com/feed/
 Channel News Asia	Asia			https://www.channelnewsasia.com/rssfeeds/8395744
 CNBC				World			https://www.cnbc.com/id/100727362/device/rss/rss.html (International)
