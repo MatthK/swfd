@@ -31,9 +31,13 @@ Below are some of the feeds I am using. Be aware that some work a bit better tha
 
 Many feeds have also other categories available, simply look at the URLs and see how you could possibly modify them to find an overview page, or just with trial and error.
 
-English Feeds
 
-Airway				Aviation		https://www.airway1.com/feed/
+
+###English Feeds
+
+| Feed	| Category 	| Link 	| Comment |
+|---	|---	|---	|---	|
+| Airway	| Aviation	| https://www.airway1.com/feed/	|   |
 Airways Magazine	Aviation		https://airwaysmag.com/rss
 AsiaTimes			World			https://asiatimes.com/category/world/feed/
 AsiaTimes			China			https://asiatimes.com/category/china/feed/  (there are many categories, just adapt according to your interest)
@@ -69,8 +73,9 @@ The Intercept		World			https://theintercept.com/feed/?lang=en
 VoxEU				Business		https://voxeu.org/feed/recent/rss.xml
 Wired News			Technology		http://www.wired.com/news_drop/netcenter/netcenter.rdf
 Yahoo News			World			http://rss.news.yahoo.com/rss/world
+|   	|   	|   	|   	|
 
-German Feeds
+###German Feeds
 
 aeroTelegraph		Aviation		https://www.aerotelegraph.com/feed
 Blick				Swiss			https://www.blick.ch/rss.xml
