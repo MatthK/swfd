@@ -33,7 +33,7 @@ Many feeds have also other categories available, simply look at the URLs and see
 
 
 
-###English Feeds
+### English Feeds
 
 | Feed	| Category 	| Comment |
 |---	|---	|---	|
@@ -43,45 +43,46 @@ Many feeds have also other categories available, simply look at the URLs and see
 | [AsiaTimes](https://asiatimes.com/category/china/feed/)	| China	| (there are many categories, just adapt according to your interest) |
 | [AutoSport](https://www.autosport.com/rss/feed/f1)	| Sport |	|
 | [BBC News](http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml)	| World	| (see https://www.bbc.co.uk/news/10628494#userss for different feeds) |
-BGR					Technology		https://bgr.com/feed/
-Channel News Asia	Asia			https://www.channelnewsasia.com/rssfeeds/8395744
-CNBC				World			https://www.cnbc.com/id/100727362/device/rss/rss.html (International)
-CNBC				Business		https://www.cnbc.com/id/20910258/device/rss/rss.html
-CNBC				Travel			https://www.cnbc.com/id/10000739/device/rss/rss.html
-CNBC				Asia			https://www.cnbc.com/id/19832390/device/rss/rss.html
-CNBC				World			https://www.cnbc.com/id/19794221/device/rss/rss.html (Europe)
-CNBC			    Business		https://www.cnbc.com/id/10001147/device/rss/rss.html
-CNBC				Technology		https://www.cnbc.com/id/19854910/device/rss/rss.html
-Engadget			Technology		http://www.engadget.com/rss.xml
-FIA					Sport			https://www.fia.com/rss/news
-HKG Living			HKG				https://hongkongliving.com/feed/
-IBT					World			https://www.ibtimes.sg/rss/world  they have various categories like sports/science/technology 
-Leeham News			Aviation		https://leehamnews.com/feed/
-Little white lies	Film			https://lwlies.com/feed/
-Movieweb			Film			https://movieweb.com/rss/movie-reviews/
-NASA				Science			https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss
-Nature				Science			http://feeds.nature.com/nature/rss/current
-Out of Town			Travel			https://outoftownblog.com/feed/
-Politico			World			http://rss.politico.com/politics-news.xml    or http://rss.politico.com/economy.xml http://rss.politico.com/defense.xml
-RT					World			https://www.rt.com/rss/
-RTHK				HKG				http://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml
-Science Daily		Science			http://feeds.sciencedaily.com/sciencedaily
-SCMP				Various			https://www.scmp.com/rss (most content is paid, with some free stuff. It only loads teasers here)
-Seattle Times		Aviation		https://www.seattletimes.com/boeing-aerospace/feed/
-TechRadar			Technology		https://www.techradar.com/rss
-The Intercept		World			https://theintercept.com/feed/?lang=en
-VoxEU				Business		https://voxeu.org/feed/recent/rss.xml
-Wired News			Technology		http://www.wired.com/news_drop/netcenter/netcenter.rdf
-Yahoo News			World			http://rss.news.yahoo.com/rss/world
+| [BGR](https://bgr.com/feed/)	| Technology	| |
+| [Channel News Asia](https://www.channelnewsasia.com/rssfeeds/8395744)	| Asia | |
+| [CNBC](https://www.cnbc.com/id/100727362/device/rss/rss.html)	| World | (International) |
+| [CNBC](https://www.cnbc.com/id/20910258/device/rss/rss.html)	| Business | |
+| [CNBC](https://www.cnbc.com/id/10000739/device/rss/rss.html)	| Travel | |
+| [CNBC](https://www.cnbc.com/id/19832390/device/rss/rss.html)	| Asia | |
+| [CNBC](https://www.cnbc.com/id/19794221/device/rss/rss.html)	| World | (Europe) |
+| [CNBC](https://www.cnbc.com/id/10001147/device/rss/rss.html)	| Business | |
+| [CNBC](https://www.cnbc.com/id/19854910/device/rss/rss.html)	| Technology | |
+| [Engadget](http://www.engadget.com/rss.xml)	| Technology | |
+| [FIA](https://www.fia.com/rss/news)	| Sport | |
+| [HKG Living](https://hongkongliving.com/feed/)	| HKG | |
+| [IBT](https://www.ibtimes.sg/rss/world)	| World | they have various categories like sports/science/technology |
+| [Leeham News](https://leehamnews.com/feed/)	| Aviation | |
+| [Little white lies](https://lwlies.com/feed/)	| Film | |
+| [Movieweb](https://movieweb.com/rss/movie-reviews/)	| Film | |
+| [NASA](https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss)	| Science | |
+| [Nature](http://feeds.nature.com/nature/rss/current)	| Science | |
+| [Out of Town](https://outoftownblog.com/feed/)	| Travel | |
+| [Politico](http://rss.politico.com/politics-news.xml)	| World	| [Economy](http://rss.politico.com/economy.xml), [Defense](http://rss.politico.com/defense.xml) |
+| [RT](https://www.rt.com/rss/)	| World | |
+| [RTHK](http://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml)	| HKG | |
+| [Science Daily](http://feeds.sciencedaily.com/sciencedaily)	| Science | |
+| [SCMP](https://www.scmp.com/rss)	| Various | (most content is paid, with some free stuff. It only loads teasers here) |
+| [Seattle Times](https://www.seattletimes.com/boeing-aerospace/feed/)	| Aviation | |
+| [TechRadar](https://www.techradar.com/rss)	| Technology | |
+| [The Intercept](https://theintercept.com/feed/?lang=en)	| World | |
+| [VoxEU](https://voxeu.org/feed/recent/rss.xml)	| Business | |
+| [Wired News](http://www.wired.com/news_drop/netcenter/netcenter.rdf)	| Technology | |
+| [Yahoo News](http://rss.news.yahoo.com/rss/world)	| World | |
 |   	|   	|   	|   	|
 
-###German Feeds
+### German Feeds
 
-aeroTelegraph		Aviation		https://www.aerotelegraph.com/feed
-Blick				Swiss			https://www.blick.ch/rss.xml
-Formula 1			Sport			https://www.motorsport-total.com/rss/rss_formel-1.xml
-SRF					Sport			https://www.srf.ch/sport/bnf/rss/2958
-
+| Feed	| Category 	| Comment |
+|---	|---	|---	|
+| [aeroTelegraph](https://www.aerotelegraph.com/feed)	| Aviation	| |
+| [Blick](https://www.blick.ch/rss.xml)	| Swiss	| |
+| [Formula 1](https://www.motorsport-total.com/rss/rss_formel-1.xml)	| Sport	| |
+| [SRF](https://www.srf.ch/sport/bnf/rss/2958)	| Sport	| |
 
 ## Credits
 The docker is based on [Pamplemousse/dockerfiles](https://github.com/Pamplemousse/dockerfiles/tree/master/selfoss) which created a standalone Selfoss docker. I added my instance of the webfront and packaged it with a MySQL database to get it all in one package.
