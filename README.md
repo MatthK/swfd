@@ -12,11 +12,11 @@ This is a docker compose for [Selfoss](https://github.com/fossar/selfoss) and my
 1.  Clone this repository with `git clone https://github.com/MatthK/swfd && cd swfd`
 2.  Adjust the defined database/username/password in the `nano docker-compose.yml`
     You might also have to replace the image with `matthk72/selfoss-wf:latest-amd64` (just add the -amd64) in case you don't use a Raspberry Pi
-3.  Type `docker-compose up -d` to fire up the containers 
+3.  Type `docker-compose up -d` to fire up the containers. Be patient and give the database enough time to initialize and get fully up for the first time. Check the `docker logs MySql` to see the ready for connections. The database will restart once automatically
 3.  Wait till the database has initialized. Then stop the containers again with `docker-compose down`
 3.  Update the database/username/password in the `nano swfd/Selfoss/config.ini` and copy paste the whole content into the file on the docker volume
     `sudo nano /var/lib/docker/volumes/swfd_Selfoss/_data/config.ini`
-5.  Start the containers again with `docker-compose up -d`
+5.  Start the containers again with `docker-compose up -d`. Again give it enough time for MySql to boot up. Check the logs again: `docker logs MySql` and `docker logs Selfoss`
 6.  Go to <http://ip-address:8080/> to get to the Selfoss interface and create your RSS feeds
     The tags defined have to match the categories in the next point. You must have 11 different tags. Multiple feeds can be defined for one tag. Either manually refresh the sources, or wait 15 minutes till the next cron job picks it up
 7.  Update the database/username/password in the constants.php and based on the feeds and tags you have defined, adjust the 11 categories
