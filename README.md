@@ -1,3 +1,5 @@
+[![GitHub Downloads](https://img.shields.io/github/downloads/MatthK/swfd/total?color=D6AD5B&labelColor=131313&style=for-the-badge&label=Downloads&logo=github)](https://github.com/MatthK/swfd "Download it today")
+
 # Selfoss-WF on Docker
 This is a docker compose for [Selfoss](https://github.com/fossar/selfoss) and my [Selfoss-Webfront](https://github.com/MatthK/Selfoss-Webfront) all packaged together ready to go.
 
